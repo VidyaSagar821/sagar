@@ -1,0 +1,63 @@
+1. Basic Understanding:
+   - Learn the fundamentals of C# programming language, as it is the primary language for .NET development.
+   - Understand basic concepts like variables, data types, control structures, and functions.
+
+2. Object-Oriented Programming (OOP):
+   - Dive deeper into OOP principles (encapsulation, inheritance, polymorphism) as they are fundamental to C# and .NET development.
+
+3. .NET Framework Basics:
+   - Familiarize yourself with the .NET Framework architecture.
+   - Learn about Common Language Runtime (CLR) and Common Type System (CTS).
+
+4. ASP.NET for Web Development:
+   - Explore ASP.NET for web development.
+   - Understand MVC (Model-View-Controller) architecture.
+   - Learn to create web applications using ASP.NET.
+
+5. Database Interaction:
+   - Learn ADO.NET for database interactions.
+   - Understand how to connect to databases, retrieve data, and perform CRUD operations.
+
+6. Entity Framework:
+   - Explore Entity Framework for a higher level of abstraction in database interactions.
+   - Understand Code-First or Database-First approaches.
+
+7. Web APIs and RESTful Services:
+   - Learn about creating and consuming Web APIs using ASP.NET Web API.
+   - Understand RESTful principles and how to design RESTful services.
+
+8. ASP.NET Core:
+   - Transition to ASP.NET Core for modern web development.
+   - Understand the differences and improvements over traditional ASP.NET.
+
+9. Front-End Technologies:
+   - Learn basic front-end technologies like HTML, CSS, and JavaScript.
+   - Familiarize yourself with front-end frameworks like Angular or React.
+
+10. Testing:
+    - Explore testing frameworks like MSTest or NUnit.
+    - Understand unit testing and integration testing concepts.
+
+11. Source Control:
+    - Learn Git for version control.
+    - Understand basic Git commands and workflows.
+
+12. Continuous Integration/Continuous Deployment (CI/CD):
+    - Familiarize yourself with CI/CD pipelines using tools like Jenkins or Azure DevOps.
+
+13. Cloud Services:
+    - Explore cloud services, especially Azure, as it is closely integrated with the .NET ecosystem.
+    - Learn to deploy and host applications on the cloud.
+
+14. Security Best Practices:
+    - Understand basic security practices for web applications.
+    - Learn about authentication and authorization mechanisms in .NET.
+
+Along with this please start learning on one of the frontend framework:
+1.	Angular
+2.	React
+
+ Please look for yorbit courses/YouTube tutorial for the above topic and create POCs and share the progress with the team.
+Please  reach out to me for any query/help/guidance.
+
+Happy Learning !!
