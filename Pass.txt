@@ -1,0 +1,12 @@
+Middle ware Exception Handling:
+
+if(condition)
+{
+try
+{
+//
+}
+catch
+{
+//
+}
